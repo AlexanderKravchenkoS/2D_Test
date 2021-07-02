@@ -2163,3 +2163,2131 @@ Received Import Request.
 Start importing Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab using Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '180bcad4c758f840153a6ddabeadf655') in 0.250976 seconds
   Import took 0.255865 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 498.360889 seconds.
+  path: Assets/2D Speed Snail/Assets
+  artifactKey: Guid(7bd5231e550ddb2499fa450e1cca544b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets using Guid(7bd5231e550ddb2499fa450e1cca544b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '970136694f92c39a9a723c2d60296373') in 0.007346 seconds
+  Import took 0.011057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.067906 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites
+  artifactKey: Guid(e28244a8b75bd784a951da285575885d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites using Guid(e28244a8b75bd784a951da285575885d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '364292c0b01cc0a467d99088cf571890') in 0.007871 seconds
+  Import took 0.011112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.772079 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/JUMP
+  artifactKey: Guid(8bc386aaa9699e246895a214e49fa73a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/JUMP using Guid(8bc386aaa9699e246895a214e49fa73a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60e5403c4703b6f605e8d5559558ad58') in 0.007531 seconds
+  Import took 0.010797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.099360 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0010.png
+  artifactKey: Guid(599fe2f785a89c4458e0f66fa9ab5539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0010.png using Guid(599fe2f785a89c4458e0f66fa9ab5539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9510d5a5b961308f32d60db9cc7afac') in 0.060685 seconds
+  Import took 0.063392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0070.png
+  artifactKey: Guid(9aface5afc0b5c0428c4d5733b641aa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0070.png using Guid(9aface5afc0b5c0428c4d5733b641aa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '825f04338dc8859b4108732ae1e4ccdd') in 0.013028 seconds
+  Import took 0.016420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0100.png
+  artifactKey: Guid(fe4fc87e34e67624187d1be7296bf07b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0100.png using Guid(fe4fc87e34e67624187d1be7296bf07b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ec765fcc37c1bf53b9ad8d551b23b87') in 0.012846 seconds
+  Import took 0.015384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0080.png
+  artifactKey: Guid(c25fa90de77bbe94581a77da0a12048f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0080.png using Guid(c25fa90de77bbe94581a77da0a12048f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bf91637f7ff8b9b60af6d4f78f3a83e') in 0.013468 seconds
+  Import took 0.016128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0110.png
+  artifactKey: Guid(4dbd0fb822b4235428defbb65d3133c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0110.png using Guid(4dbd0fb822b4235428defbb65d3133c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f120d2bac6ea0e7e3614752d85aa695') in 0.013135 seconds
+  Import took 0.015854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0050.png
+  artifactKey: Guid(6fed8e01f8d12d94ca9055f565b57aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0050.png using Guid(6fed8e01f8d12d94ca9055f565b57aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c697b3f1ee57762476d42fbf642f790d') in 0.014361 seconds
+  Import took 0.017632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0160.png
+  artifactKey: Guid(9d7d9de3771a1294496e6e0ff6c548f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0160.png using Guid(9d7d9de3771a1294496e6e0ff6c548f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a69c79b9504ab5ba525d2278cb04656a') in 0.013508 seconds
+  Import took 0.016221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0130.png
+  artifactKey: Guid(11f2b923d13a7764e95e9af88bdb8821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0130.png using Guid(11f2b923d13a7764e95e9af88bdb8821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34c614a7f2a411cfbb82cdf946897fb2') in 0.017192 seconds
+  Import took 0.020000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0060.png
+  artifactKey: Guid(17057714c5f533c42b2490cc9b92fbcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0060.png using Guid(17057714c5f533c42b2490cc9b92fbcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ede09be11a34cf0363cfd93636d4307b') in 0.019094 seconds
+  Import took 0.021958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0140.png
+  artifactKey: Guid(ec25ace85438d5446bf1e90901e0f51f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0140.png using Guid(ec25ace85438d5446bf1e90901e0f51f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a204b471a4c64106f0b890bf9da7a0e') in 0.017595 seconds
+  Import took 0.020916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0020.png
+  artifactKey: Guid(5cd2d6dfa91b7ed43a55606f7e71323d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0020.png using Guid(5cd2d6dfa91b7ed43a55606f7e71323d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f6ab749a252089dc04bbf9e48ae04bf') in 0.020913 seconds
+  Import took 0.024862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0040.png
+  artifactKey: Guid(a047aeeb7ea54204f9fdcce10fda26bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0040.png using Guid(a047aeeb7ea54204f9fdcce10fda26bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fde7ad27a69123558dc30d140f2f6940') in 0.020817 seconds
+  Import took 0.023751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0150.png
+  artifactKey: Guid(5b9bf1b74aa3d3b4e8cce3b3af0f614c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0150.png using Guid(5b9bf1b74aa3d3b4e8cce3b3af0f614c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ac05e9e6857edf20750ad5f556acf65') in 0.017396 seconds
+  Import took 0.021645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0120.png
+  artifactKey: Guid(8a9914c06c8b21c4cbb2fd67af01bcac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0120.png using Guid(8a9914c06c8b21c4cbb2fd67af01bcac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0d3e06956c4a643c769759ca3963480') in 0.017264 seconds
+  Import took 0.020001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0030.png
+  artifactKey: Guid(177a9f38e8470e94795d03977e98743e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0030.png using Guid(177a9f38e8470e94795d03977e98743e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ae5fe3bfc58836d42c38ab45af3ef06') in 0.017095 seconds
+  Import took 0.019943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0090.png
+  artifactKey: Guid(3b1a73f8e481c654aabb49783eef5216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0090.png using Guid(3b1a73f8e481c654aabb49783eef5216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51d8c0e4167b5c1bde45b012725b7e7b') in 0.019508 seconds
+  Import took 0.022303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002279 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0090.png
+  artifactKey: Guid(3b1a73f8e481c654aabb49783eef5216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/JUMP/JUMP_Snail_0090.png using Guid(3b1a73f8e481c654aabb49783eef5216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51d8c0e4167b5c1bde45b012725b7e7b') in 0.015568 seconds
+  Import took 0.018526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 201.611309 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0010.png
+  artifactKey: Guid(3956c1b55cdf6de4bace4e085f4fdbf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0010.png using Guid(3956c1b55cdf6de4bace4e085f4fdbf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72beb61f2c07890a274d6cdd8bc7eb96') in 0.017614 seconds
+  Import took 0.020742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0130.png
+  artifactKey: Guid(9b3b577475095fe488eb515333a169e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0130.png using Guid(9b3b577475095fe488eb515333a169e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dd65266649bf37d56bd8637dd38be1f') in 0.013981 seconds
+  Import took 0.016477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0030.png
+  artifactKey: Guid(0e13fcf352ae6a841978fe3bc6de2a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0030.png using Guid(0e13fcf352ae6a841978fe3bc6de2a29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13c20a080867c08fc3bb9482e159a915') in 0.013712 seconds
+  Import took 0.016212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0050.png
+  artifactKey: Guid(27ddadc8308616f48ab2249ca2d34b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0050.png using Guid(27ddadc8308616f48ab2249ca2d34b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7283693ce5ebe604345bf4de1b2ae821') in 0.063534 seconds
+  Import took 0.066059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0040.png
+  artifactKey: Guid(c96ad076a079a064ca83110839d182a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0040.png using Guid(c96ad076a079a064ca83110839d182a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '603bac91f76f0546416636a599f463f5') in 0.013040 seconds
+  Import took 0.015560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0140.png
+  artifactKey: Guid(4e64d739232f0624d9f3d1ca72f1bbcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0140.png using Guid(4e64d739232f0624d9f3d1ca72f1bbcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96013b80e04548937eb524e26b70b8c4') in 0.015391 seconds
+  Import took 0.018041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0110.png
+  artifactKey: Guid(1e653aa4df08cd241a61ca446c35e450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0110.png using Guid(1e653aa4df08cd241a61ca446c35e450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f238b1dec9b69e37847d72a74f099af4') in 0.029484 seconds
+  Import took 0.032324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0090.png
+  artifactKey: Guid(ec1384347d81f684e99b69a97c5dd914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0090.png using Guid(ec1384347d81f684e99b69a97c5dd914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95372b04b6311184d27e11648a8931f5') in 0.022868 seconds
+  Import took 0.025773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0160.png
+  artifactKey: Guid(d97c1c1102f78864893d0912d63e1631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0160.png using Guid(d97c1c1102f78864893d0912d63e1631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a193e9341e9f1fb370af9038da64dfd') in 0.014501 seconds
+  Import took 0.017310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0060.png
+  artifactKey: Guid(29e4b5c5f12f2fe409fe8139d7b725b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0060.png using Guid(29e4b5c5f12f2fe409fe8139d7b725b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3af48dd0b836169aa9c67bc7c11b8279') in 0.018903 seconds
+  Import took 0.021938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0120.png
+  artifactKey: Guid(4ba99f16d2bfa9e46884841136c2fd48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0120.png using Guid(4ba99f16d2bfa9e46884841136c2fd48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89f38e1cc1256c538cca19b2de74fb12') in 0.014836 seconds
+  Import took 0.018203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0080.png
+  artifactKey: Guid(7ec643e343dde8843810196a95beed6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0080.png using Guid(7ec643e343dde8843810196a95beed6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14d994a3296a78f69485d833441f465f') in 0.015259 seconds
+  Import took 0.018118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0070.png
+  artifactKey: Guid(11516d2857aaee443bfda02a445fe24e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0070.png using Guid(11516d2857aaee443bfda02a445fe24e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc703930d991921f52817af4a6d543a9') in 0.025741 seconds
+  Import took 0.029182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0100.png
+  artifactKey: Guid(9a9d24d55c2043a4eb01caac00d208be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0100.png using Guid(9a9d24d55c2043a4eb01caac00d208be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e7e58d0b26de37a2c707b0fd697fd3') in 0.027744 seconds
+  Import took 0.030898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0020.png
+  artifactKey: Guid(c4ac7665206d82e44b2d2bac2ed537db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0020.png using Guid(c4ac7665206d82e44b2d2bac2ed537db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8679d3174b9367f1ec752b34edeeb2d0') in 0.023040 seconds
+  Import took 0.026767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0150.png
+  artifactKey: Guid(e07d55e80729c1c47a81e34770a39c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/LOOK/LOOK_Snail_0150.png using Guid(e07d55e80729c1c47a81e34770a39c4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46092ebebbdca922f229790bbef15463') in 0.021990 seconds
+  Import took 0.025203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.979863 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0010.png
+  artifactKey: Guid(a16ef556910c0884b9bf762fff382a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0010.png using Guid(a16ef556910c0884b9bf762fff382a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1788eb415cd6a1c2f38f82d57882763a') in 0.015991 seconds
+  Import took 0.018960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0140.png
+  artifactKey: Guid(c4702d19e082a8a4aa1083c31d2cb7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0140.png using Guid(c4702d19e082a8a4aa1083c31d2cb7b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5d871ab82cbd6e9317420d723053392') in 0.049118 seconds
+  Import took 0.051740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0150.png
+  artifactKey: Guid(2a14dce1d8becbe4fb1895b9c017143e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0150.png using Guid(2a14dce1d8becbe4fb1895b9c017143e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bcb9b10866f64abf9b002a063c26524') in 0.012893 seconds
+  Import took 0.015294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0040.png
+  artifactKey: Guid(48a3dca57af9fee4a9a659ac9d3cf47d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0040.png using Guid(48a3dca57af9fee4a9a659ac9d3cf47d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afef5633607a7ada792dca496ccc3298') in 0.012895 seconds
+  Import took 0.015439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0030.png
+  artifactKey: Guid(7befa681b996d0c48ad112ea717ed3a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0030.png using Guid(7befa681b996d0c48ad112ea717ed3a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df340f5e29199722e9dceae39d3b1259') in 0.017018 seconds
+  Import took 0.020839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0160.png
+  artifactKey: Guid(ffcc429f2c9eec5489faecbb99d0a671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0160.png using Guid(ffcc429f2c9eec5489faecbb99d0a671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4db6d3a8cd8690e201bc5e758199300d') in 0.016017 seconds
+  Import took 0.018994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0120.png
+  artifactKey: Guid(df5d8f15ec4dfe040abf23215ae0f8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0120.png using Guid(df5d8f15ec4dfe040abf23215ae0f8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fea9a7c3f8ae52a728aea49fc24c832') in 0.019377 seconds
+  Import took 0.022999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0070.png
+  artifactKey: Guid(d3efae0452aff8140aac63e8660616bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0070.png using Guid(d3efae0452aff8140aac63e8660616bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4031b234ab94c2b14e972be15bf96ec4') in 0.018792 seconds
+  Import took 0.023087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0110.png
+  artifactKey: Guid(8e827d41f5a57f7408f286e0c7dbfd2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0110.png using Guid(8e827d41f5a57f7408f286e0c7dbfd2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07ee4a23bb7f124afcf93d20e892c9b2') in 0.015490 seconds
+  Import took 0.020007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0130.png
+  artifactKey: Guid(f69caf1b296318544ab5857ad216f9fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0130.png using Guid(f69caf1b296318544ab5857ad216f9fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62f51d2a7797089ac10e57b5f2a3b83e') in 0.022181 seconds
+  Import took 0.025140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0090.png
+  artifactKey: Guid(0ff116857d1ba2a4db1b51f5fd35ccb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0090.png using Guid(0ff116857d1ba2a4db1b51f5fd35ccb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee68c063e6eab0e720e40063464ded2f') in 0.020518 seconds
+  Import took 0.024422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0100.png
+  artifactKey: Guid(555c9ad3ef841e445abba85e81b5571d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0100.png using Guid(555c9ad3ef841e445abba85e81b5571d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37c7d06d35d5ad5a8196394e2404bca5') in 0.016539 seconds
+  Import took 0.019585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0050.png
+  artifactKey: Guid(b89dba6a2029f97479b8d3df11280eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0050.png using Guid(b89dba6a2029f97479b8d3df11280eda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df4907bb5cce857cd260cf1a730f4db8') in 0.022350 seconds
+  Import took 0.027557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0080.png
+  artifactKey: Guid(6f3d459277828e64199fa9e892302856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0080.png using Guid(6f3d459277828e64199fa9e892302856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2cd8f6dea77cdda2cb6d3911a766bfe') in 0.019719 seconds
+  Import took 0.022877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0060.png
+  artifactKey: Guid(eeaf0046467f9324dbfce7d1d4aa036c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0060.png using Guid(eeaf0046467f9324dbfce7d1d4aa036c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1778f288ed8ec5a517d412ced77fb0ef') in 0.020465 seconds
+  Import took 0.025562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0020.png
+  artifactKey: Guid(d3b369dcb7a11b844ab014429c20e7de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIT/HIT_Snail_0020.png using Guid(d3b369dcb7a11b844ab014429c20e7de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd46bd493981659ed8fac1ce3992dd29') in 0.021657 seconds
+  Import took 0.024787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.088333 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/IDLE/IDLE_Snail_0000.png
+  artifactKey: Guid(d1c978393ebe9ee48a21a8453ad6d215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/IDLE/IDLE_Snail_0000.png using Guid(d1c978393ebe9ee48a21a8453ad6d215) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed0b05ba5fdba4c374d207875ac91a3f') in 0.012755 seconds
+  Import took 0.015598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/IDLE/IDLE_Snail_0030.png
+  artifactKey: Guid(7d53554fb91f8ee4496a484ca87e461b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/IDLE/IDLE_Snail_0030.png using Guid(7d53554fb91f8ee4496a484ca87e461b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25105b6ec7795470cf3749efc6d51080') in 0.082966 seconds
+  Import took 0.085648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/IDLE/IDLE_Snail_0010.png
+  artifactKey: Guid(2ab36f7458700204da38bc619aa6f3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/IDLE/IDLE_Snail_0010.png using Guid(2ab36f7458700204da38bc619aa6f3f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91c3988a02f42356d9c350056ff56540') in 0.017661 seconds
+  Import took 0.020491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/IDLE/IDLE_Snail_0040.png
+  artifactKey: Guid(601c78a4527b43e4a93564b7fd674258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/IDLE/IDLE_Snail_0040.png using Guid(601c78a4527b43e4a93564b7fd674258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dceb8a9f6b4bec64d5d1a6ba78a2c97') in 0.019847 seconds
+  Import took 0.022903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/IDLE/IDLE_Snail_0060.png
+  artifactKey: Guid(ff6df89cfa2a1f44aa21f584fbccabc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/IDLE/IDLE_Snail_0060.png using Guid(ff6df89cfa2a1f44aa21f584fbccabc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00ae9b6ccf4fad1fb483e8ca412118e7') in 0.022062 seconds
+  Import took 0.024860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/IDLE/IDLE_Snail_0050.png
+  artifactKey: Guid(af78046224144fc44a20f2b6dc40b476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/IDLE/IDLE_Snail_0050.png using Guid(af78046224144fc44a20f2b6dc40b476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b2be1744b67b0c80f5f6b2249cc139a') in 0.020856 seconds
+  Import took 0.023725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/IDLE/IDLE_Snail_0020.png
+  artifactKey: Guid(2e7e85d55c470e243a35778786a3b3c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/IDLE/IDLE_Snail_0020.png using Guid(2e7e85d55c470e243a35778786a3b3c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9e43056567cbe00d1e5c635cdcf1b04') in 0.018395 seconds
+  Import took 0.021313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/IDLE/IDLE_Snail_0070.png
+  artifactKey: Guid(acafe099a05657249a72dca8a55bdf85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/IDLE/IDLE_Snail_0070.png using Guid(acafe099a05657249a72dca8a55bdf85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ede7ea1e655f8f7d5801cf36a504d3b8') in 0.017825 seconds
+  Import took 0.022581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/IDLE/IDLE_Snail_0080.png
+  artifactKey: Guid(c98801a20a03b8841931392e093c4b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/IDLE/IDLE_Snail_0080.png using Guid(c98801a20a03b8841931392e093c4b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0da7446fe299100ee72d2bed177ab76b') in 0.017819 seconds
+  Import took 0.021229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.092687 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/MOVE/MOVE_Snail_0000.png
+  artifactKey: Guid(8f2bb61a21facb54ebda46b24f42b467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/MOVE/MOVE_Snail_0000.png using Guid(8f2bb61a21facb54ebda46b24f42b467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3baa71cc2b0d0b1064299336c90c0b5') in 0.014831 seconds
+  Import took 0.018219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/MOVE/MOVE_Snail_0020.png
+  artifactKey: Guid(2088a70ecddb9b140bccb65b62ead95a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/MOVE/MOVE_Snail_0020.png using Guid(2088a70ecddb9b140bccb65b62ead95a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '677e435c46843d04abc5700fbfa39e2e') in 0.013007 seconds
+  Import took 0.015546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/MOVE/MOVE_Snail_0070.png
+  artifactKey: Guid(8137748094cb510428fc98dc91958ade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/MOVE/MOVE_Snail_0070.png using Guid(8137748094cb510428fc98dc91958ade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64da6101e8b42453756f21f1f185fc32') in 0.012956 seconds
+  Import took 0.015440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/MOVE/MOVE_Snail_0080.png
+  artifactKey: Guid(6d2c843c85f0efe4b8d5025b3c90a3e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/MOVE/MOVE_Snail_0080.png using Guid(6d2c843c85f0efe4b8d5025b3c90a3e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '261a801a047abcb2ee76066180b97b7c') in 0.012274 seconds
+  Import took 0.014792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/MOVE/MOVE_Snail_0060.png
+  artifactKey: Guid(b6bb43dd48b704b43b4f1d3e3046faf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/MOVE/MOVE_Snail_0060.png using Guid(b6bb43dd48b704b43b4f1d3e3046faf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0af89cefc2d8869d32f35e651416059f') in 0.012722 seconds
+  Import took 0.015265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/MOVE/MOVE_Snail_0030.png
+  artifactKey: Guid(83212b778a565a94c87d8fbce3f47495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/MOVE/MOVE_Snail_0030.png using Guid(83212b778a565a94c87d8fbce3f47495) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1c117ae2c1793a9284f50afd4494d51') in 0.012403 seconds
+  Import took 0.014879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/MOVE/MOVE_Snail_0050.png
+  artifactKey: Guid(c7711a5cbdcb1d14d97293688f52711b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/MOVE/MOVE_Snail_0050.png using Guid(c7711a5cbdcb1d14d97293688f52711b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81579f5afecb954cdbfae4309bd1531f') in 0.043071 seconds
+  Import took 0.045619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/MOVE/MOVE_Snail_0040.png
+  artifactKey: Guid(597bd5ba559e8b24fae9d4d4197ca539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/MOVE/MOVE_Snail_0040.png using Guid(597bd5ba559e8b24fae9d4d4197ca539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6557f5d1b2f684790fedbd8814fe3bef') in 0.015339 seconds
+  Import took 0.017859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/MOVE/MOVE_Snail_0010.png
+  artifactKey: Guid(8259b57af8b41f747a2834398c87c191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/MOVE/MOVE_Snail_0010.png using Guid(8259b57af8b41f747a2834398c87c191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f05c5430d474d16dcfff0b5e57528fc') in 0.012570 seconds
+  Import took 0.015031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 113.504273 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0010.png
+  artifactKey: Guid(de6f22215b2e8e249ad332c7922329bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0010.png using Guid(de6f22215b2e8e249ad332c7922329bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '041b127722dc4a69ef9f562518bdd4bc') in 0.016804 seconds
+  Import took 0.021013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0140.png
+  artifactKey: Guid(14207569ca3528c47af1a1f0882a1bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0140.png using Guid(14207569ca3528c47af1a1f0882a1bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4584ea228836b95e8dfcaa99318a16bc') in 0.013984 seconds
+  Import took 0.016497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0070.png
+  artifactKey: Guid(999e76a9ab44adf48a7020377f54e5f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0070.png using Guid(999e76a9ab44adf48a7020377f54e5f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5837d3d54a24e0871fbf756f13ffc3e1') in 0.014709 seconds
+  Import took 0.017628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0120.png
+  artifactKey: Guid(8ff5525b875059145ad3af263c354b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0120.png using Guid(8ff5525b875059145ad3af263c354b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2dd8fafdec26d879766cfe4dcd88284') in 0.015527 seconds
+  Import took 0.019186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0110.png
+  artifactKey: Guid(8d8d7318f87efcd44a7d795ce20d195e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0110.png using Guid(8d8d7318f87efcd44a7d795ce20d195e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd43abe0ff5d8ef300869dcbec39e44') in 0.018590 seconds
+  Import took 0.021380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0060.png
+  artifactKey: Guid(15edd74aacf9e334898f914e0f81f326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0060.png using Guid(15edd74aacf9e334898f914e0f81f326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d67f79f575ecca0b69062e7fc27aa51') in 0.022545 seconds
+  Import took 0.025619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0080.png
+  artifactKey: Guid(929a8af8606a5c448a174d31ca287603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0080.png using Guid(929a8af8606a5c448a174d31ca287603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70418e81e129f58927b6b6ce33e25fff') in 0.018678 seconds
+  Import took 0.022233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0050.png
+  artifactKey: Guid(28f5201d77e4cdd44a401661d202f6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0050.png using Guid(28f5201d77e4cdd44a401661d202f6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b9600b7711487cfa3e7fcd4da6dbf7b') in 0.016584 seconds
+  Import took 0.019293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0030.png
+  artifactKey: Guid(8cf0bfc7c8f38c645b73aa3369b41e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0030.png using Guid(8cf0bfc7c8f38c645b73aa3369b41e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b491618d365c446aa61a1288e2a4e293') in 0.016774 seconds
+  Import took 0.020103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0040.png
+  artifactKey: Guid(f23dd8e4e36858b4ab98c70cb5ab1da4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0040.png using Guid(f23dd8e4e36858b4ab98c70cb5ab1da4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48b956c129b8671e2e9e93c3dfd14d40') in 0.016088 seconds
+  Import took 0.020386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0100.png
+  artifactKey: Guid(f9a7a0b1a3fecb64986021b6e0fe36b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0100.png using Guid(f9a7a0b1a3fecb64986021b6e0fe36b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb9c0db1c466303651d1d00ce47720b9') in 0.020470 seconds
+  Import took 0.023723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0150.png
+  artifactKey: Guid(d6344267abbc3cf40aaa270ad17c9a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0150.png using Guid(d6344267abbc3cf40aaa270ad17c9a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98a6c911f1320d4d88efab11e7c2b6d2') in 0.025407 seconds
+  Import took 0.028178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0090.png
+  artifactKey: Guid(da4d6a98573520d4dae3d08a364fafea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0090.png using Guid(da4d6a98573520d4dae3d08a364fafea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8de3c9c7c6d5b4e0587033dfd0df9875') in 0.019707 seconds
+  Import took 0.022931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0020.png
+  artifactKey: Guid(3b5317488bfc021459acc60cc9c57b8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0020.png using Guid(3b5317488bfc021459acc60cc9c57b8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2f0da4f115fa102fc5b7759a8645b42') in 0.018074 seconds
+  Import took 0.023068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0130.png
+  artifactKey: Guid(7cfc94eec06a64245981ce9acec438bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0130.png using Guid(7cfc94eec06a64245981ce9acec438bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2160a17ec5a8dccdcefb839be19aa5b5') in 0.018974 seconds
+  Import took 0.022617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002727 seconds.
+  path: Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0130.png
+  artifactKey: Guid(7cfc94eec06a64245981ce9acec438bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Sprites/HIDE/HIDE_Snail_0130.png using Guid(7cfc94eec06a64245981ce9acec438bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2160a17ec5a8dccdcefb839be19aa5b5') in 0.016915 seconds
+  Import took 0.020218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.822438 seconds.
+  path: Assets/2D Speed Snail/Assets/Animations/Controller
+  artifactKey: Guid(41e71c467bd9c14469fda04a57772434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Animations/Controller using Guid(41e71c467bd9c14469fda04a57772434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '395bcf117f7878be03a710598810910a') in 0.007147 seconds
+  Import took 0.010963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.968971 seconds.
+  path: Assets/2D Speed Snail/Assets/Animations/Controller/DEATH_Snail.controller
+  artifactKey: Guid(e05b1eb63e0f1bc4f9ee97f2c030a5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Animations/Controller/DEATH_Snail.controller using Guid(e05b1eb63e0f1bc4f9ee97f2c030a5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '591ce798bb39bc72ad6c408c9f0965c2') in 0.008263 seconds
+  Import took 0.011829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.103666 seconds.
+  path: Assets/Snail.cs
+  artifactKey: Guid(eb4339c1da7c6d344a235db3e512106d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Snail.cs using Guid(eb4339c1da7c6d344a235db3e512106d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd535af67bfa0d093939b2ff23ffd2442') in 0.008250 seconds
+  Import took 0.012403 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000718 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.078 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2543.
+Total: 1.742100 ms (FindLiveObjects: 0.210300 ms CreateObjectMapping: 0.065400 ms MarkObjects: 1.454100 ms  DeleteObjects: 0.011300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000773 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.068 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2547.
+Total: 1.792600 ms (FindLiveObjects: 0.242200 ms CreateObjectMapping: 0.082500 ms MarkObjects: 1.455300 ms  DeleteObjects: 0.011600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 746.423394 seconds.
+  path: Assets/Snail.cs
+  artifactKey: Guid(eb4339c1da7c6d344a235db3e512106d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Snail.cs using Guid(eb4339c1da7c6d344a235db3e512106d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54b9d13e51b0dc57fbef7d7ae14b81dc') in 0.004094 seconds
+  Import took 0.006733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 94.945943 seconds.
+  path: Assets/PlayerShredder.cs
+  artifactKey: Guid(c8d81cb234f6f3e40a420e4d37097dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerShredder.cs using Guid(c8d81cb234f6f3e40a420e4d37097dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ba7e57af60f565f5764535a8aecfa37') in 0.006693 seconds
+  Import took 0.011345 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000754 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.090 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2552.
+Total: 2.628300 ms (FindLiveObjects: 0.277100 ms CreateObjectMapping: 0.097700 ms MarkObjects: 2.235300 ms  DeleteObjects: 0.016900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000780 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.063 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2556.
+Total: 1.777700 ms (FindLiveObjects: 0.241900 ms CreateObjectMapping: 0.083600 ms MarkObjects: 1.439300 ms  DeleteObjects: 0.012000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 61.856304 seconds.
+  path: Assets/PlayerShredder.cs
+  artifactKey: Guid(c8d81cb234f6f3e40a420e4d37097dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerShredder.cs using Guid(c8d81cb234f6f3e40a420e4d37097dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de938214def0e4d921679c39b20dbf26') in 0.004164 seconds
+  Import took 0.006779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.381685 seconds.
+  path: Assets/2D Speed Snail/Assets/Animations/Controller/MOVE_Snail.controller
+  artifactKey: Guid(0cdefb59c4e2c464d83b8be607e58d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Animations/Controller/MOVE_Snail.controller using Guid(0cdefb59c4e2c464d83b8be607e58d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be88d918de496672dd5e5696d854e737') in 0.050822 seconds
+  Import took 0.053812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.396899 seconds.
+  path: Assets/2D Speed Snail/Assets/Animations/Controller/MOVE_Snail.controller
+  artifactKey: Guid(0cdefb59c4e2c464d83b8be607e58d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail/Assets/Animations/Controller/MOVE_Snail.controller using Guid(0cdefb59c4e2c464d83b8be607e58d18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5ea64da245ae143eda6e3df12d42646') in 0.003429 seconds
+  Import took 0.007257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.115055 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc402ed3bd61d8e15cb803588f39f111') in 0.044921 seconds
+  Import took 0.048575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024954 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc402ed3bd61d8e15cb803588f39f111') in 0.009728 seconds
+  Import took 0.013387 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000852 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.046 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2561.
+Total: 2.417400 ms (FindLiveObjects: 0.358100 ms CreateObjectMapping: 0.126200 ms MarkObjects: 1.913200 ms  DeleteObjects: 0.018600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 77.797561 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ba47d632dd1ccb7127013f325e4d8b1') in 0.047053 seconds
+  Import took 0.050145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.617402 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea016b0a6c6cf59bc3907efdc2c88e01') in 0.010409 seconds
+  Import took 0.014021 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000775 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.024 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2566.
+Total: 1.722300 ms (FindLiveObjects: 0.167800 ms CreateObjectMapping: 0.047800 ms MarkObjects: 1.494400 ms  DeleteObjects: 0.011500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 50.930180 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32d78aefa1cfe0a3a43d38f8d5f2439c') in 0.048582 seconds
+  Import took 0.051343 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000825 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.099 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2571.
+Total: 2.003900 ms (FindLiveObjects: 0.333800 ms CreateObjectMapping: 0.127600 ms MarkObjects: 1.528900 ms  DeleteObjects: 0.012400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 56.007368 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffc8391079331eac6a767152bc8028b0') in 0.053964 seconds
+  Import took 0.056874 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000792 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.052 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2576.
+Total: 1.814600 ms (FindLiveObjects: 0.226200 ms CreateObjectMapping: 0.079900 ms MarkObjects: 1.494800 ms  DeleteObjects: 0.012600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000744 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.101 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2580.
+Total: 1.962900 ms (FindLiveObjects: 0.242400 ms CreateObjectMapping: 0.074900 ms MarkObjects: 1.632600 ms  DeleteObjects: 0.012200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000767 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.087 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2584.
+Total: 2.153600 ms (FindLiveObjects: 0.363500 ms CreateObjectMapping: 0.103700 ms MarkObjects: 1.671800 ms  DeleteObjects: 0.013500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 199.184362 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17ca82dd94bb18b6fef073bc15bce88e') in 0.049580 seconds
+  Import took 0.052419 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000747 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.141 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2589.
+Total: 1.940500 ms (FindLiveObjects: 0.363400 ms CreateObjectMapping: 0.081900 ms MarkObjects: 1.481200 ms  DeleteObjects: 0.013000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 120.387463 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6c409b3800794709283729a20ae1bd9') in 0.047063 seconds
+  Import took 0.049972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.644514 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18de7a3459d27f8a97017dce3f525194') in 0.011414 seconds
+  Import took 0.015122 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000739 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.073 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2594.
+Total: 1.786100 ms (FindLiveObjects: 0.219300 ms CreateObjectMapping: 0.066100 ms MarkObjects: 1.488500 ms  DeleteObjects: 0.011400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000760 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.268 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2598.
+Total: 2.023800 ms (FindLiveObjects: 0.300700 ms CreateObjectMapping: 0.095700 ms MarkObjects: 1.610800 ms  DeleteObjects: 0.015600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000695 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.113 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2602.
+Total: 2.103900 ms (FindLiveObjects: 0.360300 ms CreateObjectMapping: 0.128300 ms MarkObjects: 1.601100 ms  DeleteObjects: 0.013100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 279.491694 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5d3c1af96cc781bb31d896b784870c2') in 0.053559 seconds
+  Import took 0.056573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005500 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5d3c1af96cc781bb31d896b784870c2') in 0.009124 seconds
+  Import took 0.012277 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001213 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.098 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2607.
+Total: 3.319000 ms (FindLiveObjects: 0.314300 ms CreateObjectMapping: 0.094300 ms MarkObjects: 2.878200 ms  DeleteObjects: 0.030700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 44.482012 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '231afa5de59909bc7213febeee451276') in 0.047426 seconds
+  Import took 0.050745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.874396 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e1dcdea00547a5352fb2971e7659a4b') in 0.013442 seconds
+  Import took 0.016524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.854744 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3640358b155cbb0117d4e39d2389a45') in 0.011629 seconds
+  Import took 0.014944 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001151 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.081 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2612.
+Total: 1.727700 ms (FindLiveObjects: 0.168500 ms CreateObjectMapping: 0.047000 ms MarkObjects: 1.498500 ms  DeleteObjects: 0.012800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 83.061388 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '710cf3c73da3f06c58af3347e69f0240') in 0.050586 seconds
+  Import took 0.053474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.083069 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '710cf3c73da3f06c58af3347e69f0240') in 0.010953 seconds
+  Import took 0.016303 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001333 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.130 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2617.
+Total: 1.846800 ms (FindLiveObjects: 0.212800 ms CreateObjectMapping: 0.071100 ms MarkObjects: 1.549300 ms  DeleteObjects: 0.012800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001027 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.142 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2621.
+Total: 2.037200 ms (FindLiveObjects: 0.297900 ms CreateObjectMapping: 0.082500 ms MarkObjects: 1.643600 ms  DeleteObjects: 0.012400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000782 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.138 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2625.
+Total: 2.042200 ms (FindLiveObjects: 0.237000 ms CreateObjectMapping: 0.073500 ms MarkObjects: 1.717500 ms  DeleteObjects: 0.013300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 458.978216 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d0b955190a5f267da793340ade1bda8') in 0.048778 seconds
+  Import took 0.051665 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000757 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.207 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2630.
+Total: 1.840800 ms (FindLiveObjects: 0.239400 ms CreateObjectMapping: 0.072900 ms MarkObjects: 1.514200 ms  DeleteObjects: 0.013000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 10.575334 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a466d973e39b63533ebcbc92172b4c8') in 0.059702 seconds
+  Import took 0.064295 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000911 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.154 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2635.
+Total: 3.613200 ms (FindLiveObjects: 0.581800 ms CreateObjectMapping: 0.235800 ms MarkObjects: 2.774600 ms  DeleteObjects: 0.018400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 130.283640 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a15573ffa21360bd99f21fe20b6d0908') in 0.051188 seconds
+  Import took 0.054418 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000754 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.114 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2640.
+Total: 1.736500 ms (FindLiveObjects: 0.205800 ms CreateObjectMapping: 0.069600 ms MarkObjects: 1.447900 ms  DeleteObjects: 0.012500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000865 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.143 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2644.
+Total: 2.091600 ms (FindLiveObjects: 0.289500 ms CreateObjectMapping: 0.108300 ms MarkObjects: 1.675700 ms  DeleteObjects: 0.016200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000781 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.276 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2648.
+Total: 2.368900 ms (FindLiveObjects: 0.353400 ms CreateObjectMapping: 0.115300 ms MarkObjects: 1.880100 ms  DeleteObjects: 0.017300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 68.937037 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b29e32bede2a1d90b108683e7788f146') in 0.059827 seconds
+  Import took 0.063872 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000710 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.237 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2653.
+Total: 1.968600 ms (FindLiveObjects: 0.275800 ms CreateObjectMapping: 0.085700 ms MarkObjects: 1.592800 ms  DeleteObjects: 0.013500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 17.075472 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b37ae00902e090f44958643c1a29a21') in 0.059081 seconds
+  Import took 0.062308 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000762 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.138 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2658.
+Total: 2.028500 ms (FindLiveObjects: 0.239700 ms CreateObjectMapping: 0.071400 ms MarkObjects: 1.704400 ms  DeleteObjects: 0.012100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000837 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.158 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 89.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2662.
+Total: 2.146700 ms (FindLiveObjects: 0.247100 ms CreateObjectMapping: 0.078800 ms MarkObjects: 1.804700 ms  DeleteObjects: 0.014800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000755 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.195 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 89.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2666.
+Total: 2.028700 ms (FindLiveObjects: 0.285900 ms CreateObjectMapping: 0.091700 ms MarkObjects: 1.637700 ms  DeleteObjects: 0.012300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001019 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.195 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2670.
+Total: 1.899300 ms (FindLiveObjects: 0.332200 ms CreateObjectMapping: 0.070100 ms MarkObjects: 1.448500 ms  DeleteObjects: 0.047700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000962 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.201 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2674.
+Total: 2.100900 ms (FindLiveObjects: 0.223700 ms CreateObjectMapping: 0.074400 ms MarkObjects: 1.786500 ms  DeleteObjects: 0.015000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002919 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.201 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.1 MB.
+System memory in use after: 89.2 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2678.
+Total: 2.427400 ms (FindLiveObjects: 0.387600 ms CreateObjectMapping: 0.132000 ms MarkObjects: 1.892900 ms  DeleteObjects: 0.014000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000676 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.275 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2682.
+Total: 2.080400 ms (FindLiveObjects: 0.291900 ms CreateObjectMapping: 0.082800 ms MarkObjects: 1.687800 ms  DeleteObjects: 0.016600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000732 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.229 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2686.
+Total: 2.075900 ms (FindLiveObjects: 0.367000 ms CreateObjectMapping: 0.073200 ms MarkObjects: 1.621200 ms  DeleteObjects: 0.013400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000857 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.215 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2690.
+Total: 2.219800 ms (FindLiveObjects: 0.332200 ms CreateObjectMapping: 0.117700 ms MarkObjects: 1.755700 ms  DeleteObjects: 0.013100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 286.493181 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74de69f2fd900c1e7e2febb02e179ea0') in 0.053267 seconds
+  Import took 0.056231 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000695 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.270 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2695.
+Total: 2.059300 ms (FindLiveObjects: 0.359600 ms CreateObjectMapping: 0.130200 ms MarkObjects: 1.555600 ms  DeleteObjects: 0.012500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 5.593967 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f08df0ae23510d7058b5592a92463e88') in 0.058211 seconds
+  Import took 0.061209 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001052 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.191 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2700.
+Total: 1.992300 ms (FindLiveObjects: 0.226500 ms CreateObjectMapping: 0.067400 ms MarkObjects: 1.685800 ms  DeleteObjects: 0.012100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000865 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.132 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.2 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2704.
+Total: 1.889800 ms (FindLiveObjects: 0.261300 ms CreateObjectMapping: 0.088300 ms MarkObjects: 1.528300 ms  DeleteObjects: 0.011100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 86.196990 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85c51292ea8448ab416a32cc3e8941b1') in 0.050188 seconds
+  Import took 0.053110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048496 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85c51292ea8448ab416a32cc3e8941b1') in 0.009039 seconds
+  Import took 0.011993 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000732 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.235 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.2 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2709.
+Total: 2.200100 ms (FindLiveObjects: 0.362400 ms CreateObjectMapping: 0.084100 ms MarkObjects: 1.737500 ms  DeleteObjects: 0.014900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000816 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.194 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.2 MB.
+System memory in use after: 89.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2713.
+Total: 2.701600 ms (FindLiveObjects: 0.610800 ms CreateObjectMapping: 0.288200 ms MarkObjects: 1.760700 ms  DeleteObjects: 0.040700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000938 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.215 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.2 MB.
+System memory in use after: 89.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2717.
+Total: 1.849200 ms (FindLiveObjects: 0.250100 ms CreateObjectMapping: 0.080800 ms MarkObjects: 1.504300 ms  DeleteObjects: 0.013000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000961 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.208 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.2 MB.
+System memory in use after: 89.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2721.
+Total: 2.301900 ms (FindLiveObjects: 0.349700 ms CreateObjectMapping: 0.114600 ms MarkObjects: 1.820400 ms  DeleteObjects: 0.015900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000728 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.374 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.2 MB.
+System memory in use after: 89.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2725.
+Total: 2.352000 ms (FindLiveObjects: 0.290200 ms CreateObjectMapping: 0.086600 ms MarkObjects: 1.957000 ms  DeleteObjects: 0.017200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 99.819268 seconds.
+  path: Assets/Prefabs/Snail.prefab
+  artifactKey: Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Snail.prefab using Guid(7bac7924e42d6d24aade3e383c46d4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a785a88f236e24628dba88ab1746ad9b') in 0.057564 seconds
+  Import took 0.060937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 271.966297 seconds.
+  path: Assets/2D Speed Snail
+  artifactKey: Guid(6fac874d76624054ea2eefb0d83bc534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D Speed Snail using Guid(6fac874d76624054ea2eefb0d83bc534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7caa1b591bd4b3a1089042394beb98c8') in 0.007792 seconds
+  Import took 0.010960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 258.741459 seconds.
+  path: Assets/ScoreCounter.cs
+  artifactKey: Guid(0d8f27cf88746ac40929d859d97efb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ScoreCounter.cs using Guid(0d8f27cf88746ac40929d859d97efb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7629231b2a2ecae5445f51b2390957d1') in 0.007024 seconds
+  Import took 0.011081 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001218 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.220 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.2 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2731.
+Total: 2.032100 ms (FindLiveObjects: 0.227000 ms CreateObjectMapping: 0.080900 ms MarkObjects: 1.710800 ms  DeleteObjects: 0.012600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 8.997111 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(38cbbd93bbd9ff544bbde64f73936ade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(38cbbd93bbd9ff544bbde64f73936ade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a9f95318d3a71f0dce05b719326b6f6') in 0.008295 seconds
+  Import took 0.011156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007437 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(38cbbd93bbd9ff544bbde64f73936ade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(38cbbd93bbd9ff544bbde64f73936ade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a9f95318d3a71f0dce05b719326b6f6') in 0.002483 seconds
+  Import took 0.005386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.404093 seconds.
+  path: Assets/ArrowTurner.cs
+  artifactKey: Guid(a4f320f1bb0239f4bb8e08ad36752db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ArrowTurner.cs using Guid(a4f320f1bb0239f4bb8e08ad36752db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1e2b9759431b8bb9dfe6bd07782c9e0') in 0.008330 seconds
+  Import took 0.011215 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000907 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.227 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.2 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2735.
+Total: 2.287600 ms (FindLiveObjects: 0.378900 ms CreateObjectMapping: 0.150100 ms MarkObjects: 1.709200 ms  DeleteObjects: 0.048500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000833 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.223 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.2 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2739.
+Total: 2.163500 ms (FindLiveObjects: 0.511200 ms CreateObjectMapping: 0.100600 ms MarkObjects: 1.537200 ms  DeleteObjects: 0.013100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 51.329414 seconds.
+  path: Assets/Scripts/ScoreCounter.cs
+  artifactKey: Guid(0d8f27cf88746ac40929d859d97efb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScoreCounter.cs using Guid(0d8f27cf88746ac40929d859d97efb51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '227fbab16ed6127f21f0f00f114952be') in 0.004294 seconds
+  Import took 0.007170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.217994 seconds.
+  path: Assets/Scripts/UiController.cs
+  artifactKey: Guid(4fc3cadbd53a82f4f9bcb87c337ca87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UiController.cs using Guid(4fc3cadbd53a82f4f9bcb87c337ca87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99b8f4385e40bb2851bb85dc04c23e6b') in 0.008816 seconds
+  Import took 0.012793 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000805 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.236 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.5 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2744.
+Total: 2.091100 ms (FindLiveObjects: 0.391600 ms CreateObjectMapping: 0.143000 ms MarkObjects: 1.542900 ms  DeleteObjects: 0.012600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000793 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.289 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.5 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2748.
+Total: 1.952600 ms (FindLiveObjects: 0.251100 ms CreateObjectMapping: 0.082300 ms MarkObjects: 1.605600 ms  DeleteObjects: 0.012500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 114.821617 seconds.
+  path: Assets/Scripts/UiController.cs
+  artifactKey: Guid(4fc3cadbd53a82f4f9bcb87c337ca87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UiController.cs using Guid(4fc3cadbd53a82f4f9bcb87c337ca87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95aa8c355e0eca8ba234ae951f3cbe97') in 0.004242 seconds
+  Import took 0.006911 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000776 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.275 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1814 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.5 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2752.
+Total: 1.971100 ms (FindLiveObjects: 0.258900 ms CreateObjectMapping: 0.093400 ms MarkObjects: 1.605500 ms  DeleteObjects: 0.012500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000

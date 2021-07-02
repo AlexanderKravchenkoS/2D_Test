@@ -16,6 +16,9 @@ public class ForceController : MonoBehaviour
     private float velocityMultiplier;
 
     private void FixedUpdate() {
+        if(player == null) {
+            return;
+        }
         player.AddForce(Vector2.down * gravity);
         var direction = new Vector2(0, Mathf.Sin(arrow.transform.rotation.z * Mathf.Deg2Rad));
         player.velocity =  direction * velocityMultiplier;
