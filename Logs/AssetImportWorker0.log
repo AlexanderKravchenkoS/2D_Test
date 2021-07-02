@@ -1512,3 +1512,654 @@ Total: 2.287000 ms (FindLiveObjects: 0.248200 ms CreateObjectMapping: 0.076300 m
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 793.940690 seconds.
+  path: Assets/2DBirds_Eagle/Scenes
+  artifactKey: Guid(f58cfca4fa692d242aedfde3f6c4483c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Scenes using Guid(f58cfca4fa692d242aedfde3f6c4483c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2a420d9bf9b538be4a26653ec2925e7') in 0.011354 seconds
+  Import took 0.015321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.202090 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs
+  artifactKey: Guid(8ca787612a01aca438aeb5a69b60f2e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs using Guid(8ca787612a01aca438aeb5a69b60f2e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a63731adff3154f596ddf9bae59043dd') in 0.007369 seconds
+  Import took 0.010842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.065897 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle King Fly_0.prefab
+  artifactKey: Guid(bcc3b6c927f579847ad391ea7d6eff7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle King Fly_0.prefab using Guid(bcc3b6c927f579847ad391ea7d6eff7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee66b632e05438eee87a4913c59040d2') in 0.291844 seconds
+  Import took 0.295612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle_King_Booster_0.prefab
+  artifactKey: Guid(b79cc1a512586224f80bd655402e3476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle_King_Booster_0.prefab using Guid(b79cc1a512586224f80bd655402e3476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeb59b637f19f2b80ae7a445d9e239a0') in 0.196147 seconds
+  Import took 0.200092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle_Died.prefab
+  artifactKey: Guid(e68ef985bd914c2459cb852e858fd0c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle_Died.prefab using Guid(e68ef985bd914c2459cb852e858fd0c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b682fa101309b9ce3c145ca40b2ca97e') in 0.020860 seconds
+  Import took 0.024355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab
+  artifactKey: Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab using Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b66744c9bd8e7574deb54af7cfd938e') in 0.202167 seconds
+  Import took 0.207023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle_King_Died.prefab
+  artifactKey: Guid(c7f019aca4c30614694d9e4203177ce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle_King_Died.prefab using Guid(c7f019aca4c30614694d9e4203177ce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f139f1e774c033752e0eb9d80b03344d') in 0.015760 seconds
+  Import took 0.018564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle_Booster_0.prefab
+  artifactKey: Guid(5b1a84329c12cfd46b06bfe65a060784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle_Booster_0.prefab using Guid(5b1a84329c12cfd46b06bfe65a060784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e82341c31c0f18790c17ff306f47d1d8') in 0.189590 seconds
+  Import took 0.193259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.223308 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab
+  artifactKey: Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab using Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd6933ff21015607f84c557bb70586d') in 0.171650 seconds
+  Import took 0.175527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.449085 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab
+  artifactKey: Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab using Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57c268d2c38a6528ef5cc0e9527e2df7') in 0.180362 seconds
+  Import took 0.184168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.591849 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab
+  artifactKey: Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab using Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0e80790969dbcb9860a19023eaac616') in 0.180068 seconds
+  Import took 0.183928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.646346 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab
+  artifactKey: Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab using Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20e3d50fa9b6dc71aa88da8e4c062e64') in 0.171742 seconds
+  Import took 0.175992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.232710 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab
+  artifactKey: Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab using Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6de767ed86b65bac3e18ba810742793') in 0.170567 seconds
+  Import took 0.174255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.189776 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab
+  artifactKey: Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab using Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '973b6e61866dbfdaca9340442cb4605c') in 0.184434 seconds
+  Import took 0.188340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.274247 seconds.
+  path: Assets/2DBirds_Eagle/Spritesheets/Eagle_Fly/Eagle Normal.png
+  artifactKey: Guid(19542905a3333f54e975640caa512816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Spritesheets/Eagle_Fly/Eagle Normal.png using Guid(19542905a3333f54e975640caa512816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24b8aae6efc5563a2ae5a3cf9087cf7b') in 0.282824 seconds
+  Import took 0.286978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/2DBirds_Eagle/Spritesheets/Eagle_Fly/Eagle Normal_0.controller
+  artifactKey: Guid(d38c1e3b09139ee41a3e8005033aec06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Spritesheets/Eagle_Fly/Eagle Normal_0.controller using Guid(d38c1e3b09139ee41a3e8005033aec06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5250a73312373750f13cfa4c10c25b14') in 0.004143 seconds
+  Import took 0.007489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/2DBirds_Eagle/Spritesheets/Eagle_Fly/Eagle Normal.png
+  artifactKey: Guid(19542905a3333f54e975640caa512816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Spritesheets/Eagle_Fly/Eagle Normal.png using Guid(19542905a3333f54e975640caa512816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24b8aae6efc5563a2ae5a3cf9087cf7b') in 0.274973 seconds
+  Import took 0.279596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.507151 seconds.
+  path: Assets/2DBirds_Eagle/Spritesheets/Eagle_King_Booster/Eagle_King_Booster.png
+  artifactKey: Guid(6d77d263a9bb31b4282c8ca82ad914c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Spritesheets/Eagle_King_Booster/Eagle_King_Booster.png using Guid(6d77d263a9bb31b4282c8ca82ad914c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44b4ea27697e5cbc599de7f3715abc2a') in 0.217595 seconds
+  Import took 0.221820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.337374 seconds.
+  path: Assets/2DBirds_Eagle/Spritesheets/Eagle_King_Fly/Eagle King Fly.png
+  artifactKey: Guid(516bb5aab5b59014c91d49e06d1edf35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Spritesheets/Eagle_King_Fly/Eagle King Fly.png using Guid(516bb5aab5b59014c91d49e06d1edf35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb55da2e1e1cb12e4c75c54bc5d8cf26') in 0.235591 seconds
+  Import took 0.239350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.857597 seconds.
+  path: Assets/2DBirds_Eagle/Spritesheets/Eagle_Booster/Eagle_Booster.png
+  artifactKey: Guid(18592bd09923fce4fb21e9a9e53bc01c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Spritesheets/Eagle_Booster/Eagle_Booster.png using Guid(18592bd09923fce4fb21e9a9e53bc01c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89026b356226d22382b3a7e66e39fb67') in 0.224205 seconds
+  Import took 0.228084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.773876 seconds.
+  path: Assets/2DBirds_Eagle/Spritesheets/Eagle_Booster/Eagle_Booster.anim
+  artifactKey: Guid(6f1551bb5b523414bb0b64ecf8d0c7e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Spritesheets/Eagle_Booster/Eagle_Booster.anim using Guid(6f1551bb5b523414bb0b64ecf8d0c7e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df13562ce9999af2f51f96ffc3481431') in 0.004058 seconds
+  Import took 0.007175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006814 seconds.
+  path: Assets/2DBirds_Eagle/Spritesheets/Eagle_Booster/Eagle_Booster.anim
+  artifactKey: Guid(6f1551bb5b523414bb0b64ecf8d0c7e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Spritesheets/Eagle_Booster/Eagle_Booster.anim using Guid(6f1551bb5b523414bb0b64ecf8d0c7e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df13562ce9999af2f51f96ffc3481431') in 0.002734 seconds
+  Import took 0.005597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.442144 seconds.
+  path: Assets/2DBirds_Eagle/Spritesheets/Eagle_Died.png
+  artifactKey: Guid(6adafbdaf61a4824eb536aea57cfda70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Spritesheets/Eagle_Died.png using Guid(6adafbdaf61a4824eb536aea57cfda70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '047c153432ec9d8a853e07fbed1fb5e9') in 0.013372 seconds
+  Import took 0.016999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000598 seconds.
+  path: Assets/2DBirds_Eagle/Spritesheets/Eagle_King_Died.png
+  artifactKey: Guid(8a25b5988c272354abd89fe598401634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Spritesheets/Eagle_King_Died.png using Guid(8a25b5988c272354abd89fe598401634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0260e77735495d088e511bf9fe641578') in 0.015463 seconds
+  Import took 0.019008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.652436 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab
+  artifactKey: Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab using Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a3b386c7adddb9ded834e639a6c5b15') in 0.185151 seconds
+  Import took 0.189157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.332884 seconds.
+  path: Assets/Eagle.cs
+  artifactKey: Guid(af669fb2105551e44864fe09e4d3beef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Eagle.cs using Guid(af669fb2105551e44864fe09e4d3beef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b2868021081f459b4a73fcfe94e0009') in 0.008920 seconds
+  Import took 0.013140 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000740 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.013 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1809 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.1 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2481.
+Total: 2.576200 ms (FindLiveObjects: 0.251400 ms CreateObjectMapping: 0.082900 ms MarkObjects: 2.213200 ms  DeleteObjects: 0.027000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 13.465253 seconds.
+  path: Assets/Spawner.cs
+  artifactKey: Guid(386a029c5de65994a80b50183be6065f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spawner.cs using Guid(386a029c5de65994a80b50183be6065f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1d1a480a56088e8003106fed27d0423') in 0.013814 seconds
+  Import took 0.017077 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000796 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.083 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1810 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.1 MB.
+System memory in use after: 88.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2486.
+Total: 1.902800 ms (FindLiveObjects: 0.282300 ms CreateObjectMapping: 0.067700 ms MarkObjects: 1.538400 ms  DeleteObjects: 0.013300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000846 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.029 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1810 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2490.
+Total: 2.076900 ms (FindLiveObjects: 0.307100 ms CreateObjectMapping: 0.095300 ms MarkObjects: 1.659900 ms  DeleteObjects: 0.013600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 268.619803 seconds.
+  path: Assets/Spawner.cs
+  artifactKey: Guid(386a029c5de65994a80b50183be6065f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spawner.cs using Guid(386a029c5de65994a80b50183be6065f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ad678caed059647108c381aa968f15b') in 0.004278 seconds
+  Import took 0.006950 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001177 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.004 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1810 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2494.
+Total: 1.787500 ms (FindLiveObjects: 0.230800 ms CreateObjectMapping: 0.076600 ms MarkObjects: 1.467100 ms  DeleteObjects: 0.012300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 668.773589 seconds.
+  path: Assets/Eagle.cs
+  artifactKey: Guid(af669fb2105551e44864fe09e4d3beef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Eagle.cs using Guid(af669fb2105551e44864fe09e4d3beef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4931d34232aef059ef578510107c7f5') in 0.004073 seconds
+  Import took 0.006722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.712943 seconds.
+  path: Assets/Player.cs
+  artifactKey: Guid(eace730217ebc7a419c8899a451a7a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player.cs using Guid(eace730217ebc7a419c8899a451a7a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1ce9c36934971cf0126cf2a45274391') in 0.005885 seconds
+  Import took 0.009459 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001149 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.034 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1810 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2498.
+Total: 1.879400 ms (FindLiveObjects: 0.195600 ms CreateObjectMapping: 0.071200 ms MarkObjects: 1.600300 ms  DeleteObjects: 0.011500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 21.375035 seconds.
+  path: Assets/Player.cs
+  artifactKey: Guid(eace730217ebc7a419c8899a451a7a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player.cs using Guid(eace730217ebc7a419c8899a451a7a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf7d31df3e421e90ab6b6e029c9b3053') in 0.004097 seconds
+  Import took 0.006690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.725773 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab
+  artifactKey: Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab using Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '533dcc6e243fb64c5a83f20e78634d00') in 0.217027 seconds
+  Import took 0.220943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.597561 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab
+  artifactKey: Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab using Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '985c239e78c524f4de8193d67caeaedb') in 0.169722 seconds
+  Import took 0.173461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.764902 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab
+  artifactKey: Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab using Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9d37c8d3fe66d983412614f6c0ff0af') in 0.168409 seconds
+  Import took 0.172123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.391062 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab
+  artifactKey: Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab using Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06430b196e74bd34f3d8a71cffd26576') in 0.167390 seconds
+  Import took 0.172444 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000772 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.039 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1810 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2503.
+Total: 1.699500 ms (FindLiveObjects: 0.213400 ms CreateObjectMapping: 0.068500 ms MarkObjects: 1.405900 ms  DeleteObjects: 0.011000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 297.169863 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab
+  artifactKey: Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab using Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45c1c1c0a9f8a3276cbc21a68bf9498a') in 0.226911 seconds
+  Import took 0.231226 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000869 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.977 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1810 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2508.
+Total: 2.101800 ms (FindLiveObjects: 0.377400 ms CreateObjectMapping: 0.069700 ms MarkObjects: 1.642300 ms  DeleteObjects: 0.011800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 82.908772 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab
+  artifactKey: Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab using Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3815074787d3548efd21a2d26eb7bc49') in 0.217724 seconds
+  Import took 0.221308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.706118 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab
+  artifactKey: Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab using Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b1568b36476a0b393c8ad2981f9fd43') in 0.170106 seconds
+  Import took 0.173906 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000924 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.013 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1810 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.4 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2513.
+Total: 1.899400 ms (FindLiveObjects: 0.219800 ms CreateObjectMapping: 0.085000 ms MarkObjects: 1.578000 ms  DeleteObjects: 0.015600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000717 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.010 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1810 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.4 MB.
+System memory in use after: 88.5 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2517.
+Total: 1.947600 ms (FindLiveObjects: 0.279500 ms CreateObjectMapping: 0.101700 ms MarkObjects: 1.553900 ms  DeleteObjects: 0.011600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000842 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.985 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1810 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.4 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2521.
+Total: 1.884800 ms (FindLiveObjects: 0.157300 ms CreateObjectMapping: 0.045600 ms MarkObjects: 1.669100 ms  DeleteObjects: 0.011800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 163.047475 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab
+  artifactKey: Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab using Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '577da3c3c3a4a896479e0ffdb7278492') in 0.233577 seconds
+  Import took 0.239478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.061584 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab
+  artifactKey: Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab using Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '577da3c3c3a4a896479e0ffdb7278492') in 0.202568 seconds
+  Import took 0.207447 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000890 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.987 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1810 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2526.
+Total: 1.868300 ms (FindLiveObjects: 0.193800 ms CreateObjectMapping: 0.067900 ms MarkObjects: 1.593300 ms  DeleteObjects: 0.012400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 113.078703 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab
+  artifactKey: Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab using Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e53ada10889f0962139ea603af3530fc') in 0.216971 seconds
+  Import took 0.221370 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000985 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.154 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1810 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2531.
+Total: 3.541400 ms (FindLiveObjects: 0.421200 ms CreateObjectMapping: 0.157900 ms MarkObjects: 2.943600 ms  DeleteObjects: 0.017200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 5.333948 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab
+  artifactKey: Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab using Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '729d4d190ab8761796fc9aa6d4e3b4af') in 0.279062 seconds
+  Import took 0.284231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.944709 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab
+  artifactKey: Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab using Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52c61846a2a825e4dc4f27cf27458204') in 0.167874 seconds
+  Import took 0.171675 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000732 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.209 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1810 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2536.
+Total: 3.181400 ms (FindLiveObjects: 0.412200 ms CreateObjectMapping: 0.092400 ms MarkObjects: 2.638800 ms  DeleteObjects: 0.026800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 8.582612 seconds.
+  path: Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab
+  artifactKey: Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DBirds_Eagle/Prefabs/Eagle Normal_0.prefab using Guid(f17f21325addd2144a8cbe65626e62d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '180bcad4c758f840153a6ddabeadf655') in 0.250976 seconds
+  Import took 0.255865 seconds .
+
