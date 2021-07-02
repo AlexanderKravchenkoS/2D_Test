@@ -5,7 +5,7 @@ using UnityEngine;
 public class Spawner : MonoBehaviour
 {
     [SerializeField]
-    private GameObject gameObjectToSpawn;
+    private GameObject[] gameObjectToSpawn;
 
     private float spawnTime = 0;
 
@@ -17,10 +17,11 @@ public class Spawner : MonoBehaviour
 
     private void Update() {
         if(Time.time >= spawnTime) {
-            var rotation = gameObjectToSpawn.transform.rotation;
-            Instantiate(gameObjectToSpawn, transform.position, rotation);
+            var enemy = gameObjectToSpawn[Random.Range(0, gameObjectToSpawn.Length)];
+            var rotation = enemy.transform.rotation;
+            var pos = new Vector3(transform.position.x, enemy.transform.position.y, 0);
+            Instantiate(enemy, pos, rotation);
             spawnTime = Time.time + Random.Range(minSpawnTime, maxSpawnTime);
-
         }
     }
 

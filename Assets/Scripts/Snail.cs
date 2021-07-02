@@ -25,7 +25,6 @@ public class Snail : MonoBehaviour
 
     public bool isOnGround;
 
-    private const string JUMP_TRIGGER = "Jump";
     private new Rigidbody2D rigidbody2D;
 
     private void Start() {
@@ -36,7 +35,6 @@ public class Snail : MonoBehaviour
 
     private void Update() {
         if(Time.time >= jumpTime) {
-            //animator.SetTrigger(JUMP_TRIGGER);
             rigidbody2D.AddForce(Vector2.up * jumpStrength);
             jumpTime = Time.time + Random.Range(minJumpTime, maxJumpTime);
         }
