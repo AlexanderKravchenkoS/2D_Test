@@ -4,9 +4,13 @@ using UnityEngine;
 
 public class ScoreCounter : MonoBehaviour
 {
-    public int points = 0;
+    public float points = 0;
 
     private void Update() {
-        points = (int)Time.realtimeSinceStartup;
+        points += Time.deltaTime * 5;
+    }
+
+    private void OnDestroy() {
+        points = 0;
     }
 }

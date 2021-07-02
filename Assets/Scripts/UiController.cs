@@ -12,6 +12,6 @@ public class UiController : MonoBehaviour
     private ScoreCounter scoreCounter;
 
     private void Update() {
-        scoreText.text = scoreCounter.points.ToString();
+        scoreText.text = Mathf.Round(scoreCounter.points).ToString();
     }
 }
