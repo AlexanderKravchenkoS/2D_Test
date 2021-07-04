@@ -117,13 +117,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb4339c1da7c6d344a235db3e512106d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
+  speed: 4
   speedMultiplier: 1.3
   jumpStrength: 300
   minJumpTime: 1
   maxJumpTime: 3
-  animator: {fileID: 4600411977542217034}
-  isOnGround: 0
 --- !u!61 &3241983497445440252
 BoxCollider2D:
   m_ObjectHideFlags: 0

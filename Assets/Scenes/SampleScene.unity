@@ -962,7 +962,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dac5fe0707a524c458e4ec3dd6ff2302, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 873899266}
+  playerRb: {fileID: 873899266}
   arrow: {fileID: 1137035402}
   gravity: 100
   velocityMultiplier: 700
