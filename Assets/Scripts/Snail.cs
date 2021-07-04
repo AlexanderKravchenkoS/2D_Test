@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Snail : MonoBehaviour
@@ -20,11 +18,6 @@ public class Snail : MonoBehaviour
     [SerializeField]
     private float maxJumpTime;
 
-    [SerializeField]
-    private Animator animator;
-
-    public bool isOnGround;
-
     private new Rigidbody2D rigidbody2D;
 
     private void Start() {
@@ -38,7 +31,7 @@ public class Snail : MonoBehaviour
             rigidbody2D.AddForce(Vector2.up * jumpStrength);
             jumpTime = Time.time + Random.Range(minJumpTime, maxJumpTime);
         }
+
         rigidbody2D.AddForce(Vector2.left * speed);
     }
-
 }

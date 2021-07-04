@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Shredder : MonoBehaviour
@@ -10,9 +8,11 @@ public class Shredder : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision) {
         var background = collision.GetComponent<Background>();
+
         if(background != null) {
             Instantiate(background, background.SPAWN_COORDINATES, background.transform.rotation);
         }
+
         Destroy(collision.gameObject);
     }
 }

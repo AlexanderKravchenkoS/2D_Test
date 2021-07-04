@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Spawner : MonoBehaviour
@@ -18,11 +16,13 @@ public class Spawner : MonoBehaviour
     private void Update() {
         if(Time.time >= spawnTime) {
             var enemy = gameObjectToSpawn[Random.Range(0, gameObjectToSpawn.Length)];
+
             var rotation = enemy.transform.rotation;
             var pos = new Vector3(transform.position.x, enemy.transform.position.y, 0);
+
             Instantiate(enemy, pos, rotation);
+
             spawnTime = Time.time + Random.Range(minSpawnTime, maxSpawnTime);
         }
     }
-
 }

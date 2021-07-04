@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class ForceController : MonoBehaviour
@@ -12,6 +10,7 @@ public class ForceController : MonoBehaviour
 
     [SerializeField]
     private float gravity;
+
     [SerializeField]
     private float velocityMultiplier;
 
@@ -19,7 +18,9 @@ public class ForceController : MonoBehaviour
         if(player == null) {
             return;
         }
+
         player.AddForce(Vector2.down * gravity);
+
         var direction = new Vector2(0, Mathf.Sin(arrow.transform.rotation.z * Mathf.Deg2Rad));
         player.velocity =  direction * velocityMultiplier;
     }
